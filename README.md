@@ -10,8 +10,4 @@
   AMO musica principalmente mpb e rock, como da pra ver minha foto é o cazuza né.
 - e amo muito fazer graça.
 **🧰 Current stack**  
-<div>  
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="40" />
-</div>"# juliafndzz" 
-
-<img width="1080" height="1019" alt="f5c2b764ca67fb37e4d45fb7516686bb" src="https://github.com/user-attachments/assets/f499c59c-c93a-4b94-8530-881b02a6daa8" />
+<img width="491" height="702" alt="cd0e39c1edb0b8a191272ef262f91997" src="https://github.com/user-attachments/assets/f7bad507-02d0-4ff1-958c-3af647a6f903" />
