@@ -9,6 +9,9 @@
 - guitarra, musica e muita paz.
 - fazer desing.
 **🧰 Current stack**  
-<img width="491" height="702" alt="cd0e39c1edb0b8a191272ef262f91997" src="https://github.com/user-attachments/assets/f7bad507-02d0-4ff1-958c-3af647a6f903" />
+<img width="750" height="771" alt="cf5c1c0e133459205060277464768bc7" src="https://github.com/user-attachments/assets/3989c397-4338-4bbd-890c-225bbdc35e47" />
+<img width="720" height="661" alt="01346dcbdbe4492107ca44449380e6d0" src="https://github.com/user-attachments/assets/506eed3d-727b-46a0-bf23-f1b09d2b3386" />
 
-<img width="736" height="736" alt="19a26b84f777f088276a7ef840848018" src="https://github.com/user-attachments/assets/4740cb65-a4fc-4ad6-a3f6-fc6c4e267b33" />
+
+
+
