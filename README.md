@@ -1,3 +1,4 @@
+<img width="670" height="900" alt="f79bea78ed4e9575ea682cc1536ef3b5" src="https://github.com/user-attachments/assets/3508782b-fc08-43c7-ae40-596f5ff37a0c" />
 
 # OPA, eu julia aqui. 👋
 
